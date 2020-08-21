@@ -1,7 +1,6 @@
 import ares
 import numpy as np
 import matplotlib.pyplot as plt
-from ares.physics.Constants import h, k_B, c, Lsun
 
 # Setting the parameters
 z = np.arange(4, 9, 1)
