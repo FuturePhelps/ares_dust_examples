@@ -1,0 +1,1 @@
+This folder is where all the figures from the example code are computed.
